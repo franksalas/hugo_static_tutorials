@@ -3,3 +3,9 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 
 theme = 'ga-hugo-theme'
+
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    mood = "moods"
