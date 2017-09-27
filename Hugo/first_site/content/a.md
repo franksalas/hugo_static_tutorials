@@ -7,4 +7,8 @@ author: "frank"
 
 This is a `a.md`
 
-### frontmatter editing
+### Add youtube video w/ shortcode
+
+
+{{<youtube 2xkNJL4gJ9E>}}
+
